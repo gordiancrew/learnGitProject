@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Stage20");
         System.out.println("Branch1 Commit");
         System.out.println("Branch1 commit2");
+        System.out.println("Commit Merg");
     }
 }
