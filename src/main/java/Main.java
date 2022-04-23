@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, stage 1");
-        System.out.println("Commit 1");
-        System.out.println("stage4");
+        System.out.println("stage5");
     }
 }
